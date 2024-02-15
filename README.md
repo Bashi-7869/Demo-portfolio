@@ -13,7 +13,7 @@ for now, i Know:
 
 3.javascript
 
-4.Bootstrrap
+4.Bootstrap
 
 5.Chalk
 
